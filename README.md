@@ -7,6 +7,7 @@ This is an 3.5mm audio input/output adapter for the Extron switches. It conforms
 <img src="./Pics/02.jpg" width="400px" />
 <img src="./Pics/03.jpg" width="400px" />
 <img src="./Pics/04.jpg" width="400px" />
+
 -----------
 ## Parts
 Terminal Plug - 3.5mm pitch, right angle, through-hole
@@ -35,6 +36,7 @@ Print the shell sideways, without support.
 Print the stopper standing, with the screw hole vertical.
 
 <img src="./Pics/09.jpg" width="400px" />
+
 -----------
 ## Assembly
 

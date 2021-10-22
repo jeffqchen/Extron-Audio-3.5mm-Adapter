@@ -60,4 +60,5 @@ If you plan to use the adapters side-by-side on a CrossPoint switch, take a side
 Special Thanks
 
 qwertymodo (for the schematics of the original adapter)
-https://twitter.com/qwertymodo
+- https://qwertymodo.com/
+- https://twitter.com/qwertymodo

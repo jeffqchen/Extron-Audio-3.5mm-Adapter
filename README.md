@@ -13,7 +13,7 @@ This is an 3.5mm audio input/output adapter for the Extron switches. It conforms
 Terminal Plug - 5 pin, 3.5mm pitch, right angle, through-hole
 - https://www.aliexpress.com/item/33038085286.html
 
-3.5mm Jack
+3.5mm Jack (Choose one)
 - https://www.aliexpress.com/item/32871877936.html
 - https://www.digikey.com/en/products/detail/cui-devices/SJ1-3523N/738689
 

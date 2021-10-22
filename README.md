@@ -55,3 +55,9 @@ If you plan to use the adapters side-by-side on a CrossPoint switch, take a side
 
 <img src="./Pics/07.jpg" width="400px" />
 <img src="./Pics/08.jpg" width="400px" />
+
+--------
+Special Thanks
+
+qwertymodo (for the schematics of the original adapter)
+https://twitter.com/qwertymodo

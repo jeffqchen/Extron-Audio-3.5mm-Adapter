@@ -1,5 +1,5 @@
 # Extron Audio 3.5mm Adapter
-<img src="./Pics/00.jpg" width="400px" />
+<img src="./Pics/00.jpg">
 
 This is an 3.5mm audio input/output adapter for the Extron switches. It conforms to the circuit design of the official CSM6 adapter to enable correct audio levels when balanced audio is adapted to unbalanced audio through a 3.5mm jack.
 

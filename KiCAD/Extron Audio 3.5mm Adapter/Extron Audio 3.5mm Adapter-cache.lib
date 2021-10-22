@@ -1,0 +1,86 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Extron_Audio_3.5mm_Adapter_3.5mm_Jack_Horizontal
+#
+DEF Extron_Audio_3.5mm_Adapter_3.5mm_Jack_Horizontal J 0 40 Y N 1 F N
+F0 "J" -400 300 50 H V L BNN
+F1 "Extron_Audio_3.5mm_Adapter_3.5mm_Jack_Horizontal" -450 -300 50 H V L BNN
+F2 "CUI_SJ1-3523N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "1.02" 0 0 50 H I L BNN "PARTREV"
+F5 "Manufacturer recommendation" 0 0 50 H I L BNN "STANDARD"
+F6 "CUI" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+P 2 0 0 10 -400 -200 400 -200 N
+P 2 0 0 10 -400 200 -400 -200 N
+P 2 0 0 6 -275 -100 -275 25 N
+P 2 0 0 6 -275 25 -250 25 N
+P 2 0 0 6 -250 25 -225 25 N
+P 2 0 0 6 -250 100 -250 25 N
+P 2 0 0 6 -225 -100 -275 -100 N
+P 2 0 0 6 -225 25 -225 -100 N
+P 2 0 0 6 -125 -50 -175 0 N
+P 2 0 0 6 -75 0 -125 -50 N
+P 2 0 0 6 -25 -50 -75 -100 N
+P 2 0 0 6 25 -100 -25 -50 N
+P 2 0 0 10 400 -200 400 -100 N
+P 2 0 0 6 400 -100 25 -100 N
+P 2 0 0 10 400 -100 400 0 N
+P 2 0 0 6 400 0 -75 0 N
+P 2 0 0 10 400 0 400 100 N
+P 2 0 0 6 400 100 -250 100 N
+P 2 0 0 10 400 100 400 200 N
+P 2 0 0 10 400 200 -400 200 N
+X ~ 1 600 100 200 L 40 40 0 0 P
+X ~ 2 600 -100 200 L 40 40 0 0 P
+X ~ 3 600 0 200 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+# Extron_Audio_3.5mm_Adapter_Resistor_SMD_0805
+#
+DEF Extron_Audio_3.5mm_Adapter_Resistor_SMD_0805 R 0 40 N N 1 F N
+F0 "R" -150 59 50 H V L BNN
+F1 "Extron_Audio_3.5mm_Adapter_Resistor_SMD_0805" -350 -150 50 H V L BNN
+F2 "RESC2012X65N" -250 150 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 ".25 W" 100 350 50 H I L BNN "Power_Rating"
+F5 "1625868-6" -150 250 50 H I L BNN "Comment"
+F6 "200" 50 450 50 H I L BNN "Resistance"
+F7 "0805" -200 450 50 H I L BNN "Package"
+F8 "150 V" -150 350 50 H I L BNN "Voltage_Rating"
+F9 ".1%" 250 450 50 H I L BNN "Tolerance"
+DRAW
+P 2 0 0 8 -100 0 -85 40 N
+P 2 0 0 8 -85 40 -60 -40 N
+P 2 0 0 8 -60 -40 -35 40 N
+P 2 0 0 8 -35 40 -10 -40 N
+P 2 0 0 8 -10 -40 15 40 N
+P 2 0 0 8 15 40 40 -40 N
+P 2 0 0 8 40 -40 65 40 N
+P 2 0 0 8 65 40 90 -40 N
+P 2 0 0 8 90 -40 100 0 N
+X ~ 1 -200 0 100 R 40 40 0 0 P
+X ~ 2 200 0 100 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+# Extron_Audio_3.5mm_Adapter_terminal_5pin
+#
+DEF Extron_Audio_3.5mm_Adapter_terminal_5pin P 0 40 Y Y 1 F N
+F0 "P" 0 0 50 H V C CNN
+F1 "Extron_Audio_3.5mm_Adapter_terminal_5pin" 150 -500 50 V V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 0 -100 300 -900 0 1 0 N
+X ~ 1 -100 -200 100 R 50 50 1 1 P
+X ~ 2 -100 -350 100 R 50 50 1 1 P
+X ~ 3 -100 -500 100 R 50 50 1 1 P
+X ~ 4 -100 -650 100 R 50 50 1 1 P
+X ~ 5 -100 -800 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

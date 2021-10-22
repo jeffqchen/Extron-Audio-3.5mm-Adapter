@@ -10,7 +10,7 @@ This is an 3.5mm audio input/output adapter for the Extron switches. It conforms
 
 -----------
 ## Parts
-Terminal Plug - 3.5mm pitch, right angle, through-hole
+Terminal Plug - 5 pin, 3.5mm pitch, right angle, through-hole
 - https://www.aliexpress.com/item/33038085286.html
 
 3.5mm Jack

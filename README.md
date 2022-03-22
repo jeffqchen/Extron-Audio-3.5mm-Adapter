@@ -10,21 +10,16 @@ This is an 3.5mm audio input/output adapter for the Extron switches. It conforms
 
 -----------
 ## Parts
-Terminal Plug - 5 pin, 3.5mm pitch, right angle, through-hole
-- https://www.aliexpress.com/item/33038085286.html
 
-3.5mm Jack (Choose one)
-- https://www.aliexpress.com/item/32871877936.html
-- https://www.digikey.com/en/products/detail/cui-devices/SJ1-3523N/738689
+- [PCB](https://oshpark.com/shared_projects/oJI7PVwu)
 
-2x Resistors 1K Ohm
-- SMD 0805/0603 OR through-hole 1/4W
+- Terminal Plug - 5 pin, 3.5mm pitch, right angle, through-hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Phoenix%20Terminal%20Connector/Female%20PCB/info.md)
 
-PCB
-- https://oshpark.com/shared_projects/oJI7PVwu
+- Horizontal 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Horizontal%203.5mm%203-Pin%20Audio%20Jack/info.md)
 
-M2x12mm screw and hex nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- M2x12mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
+
+- 2x Resistors 1K Ohm - SMD 0805/0603 OR through-hole 1/4W
 
 3D Printed Shell
 

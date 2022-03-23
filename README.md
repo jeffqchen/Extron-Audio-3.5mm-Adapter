@@ -15,7 +15,7 @@ This is an 3.5mm audio input/output adapter for the Extron switches. It conforms
 
 - Terminal Plug - 5 pin, 3.5mm pitch, right angle, through-hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Phoenix%20Terminal%20Connector/Female%20PCB/info.md)
 
-- Horizontal 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Horizontal%203.5mm%203-Pin%20Audio%20Jack/info.md)
+- Horizontal 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Horizontal%203-Pin%20PCB/info.md)
 
 - M2x12mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 

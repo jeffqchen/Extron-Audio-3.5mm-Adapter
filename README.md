@@ -21,7 +21,7 @@ This is an 3.5mm audio input/output adapter for the Extron switches. It conforms
 
 - 2x Resistors 1K Ohm - SMD 0805/0603 OR through-hole 1/4W
 
-3D Printed Shell
+- 3D Printed Shell
 
 -----------
 ## 3D Printing The Shell

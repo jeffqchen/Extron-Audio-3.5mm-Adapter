@@ -32,6 +32,11 @@ Print the stopper standing, with the screw hole vertical.
 
 <img src="./Pics/09.jpg" width="400px" />
 
+
+**Note:** for Extron devices with a connector that's flush with the shell (such as the RGB series), please use the shell called "Shell Flush.stl". The normal one does not seat properly and the connection will be loose.
+
+<img src="./Pics/flush.jpg" width="400px" />
+
 -----------
 ## Assembly
 
